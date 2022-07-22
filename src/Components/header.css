@@ -1,0 +1,20 @@
+
+
+
+
+.headerDiv{
+    height: 35vh;
+    background-color: rgba(0, 0, 0, 0.13);
+}
+.headerDiv h1{
+    font-size: 5vh;
+}
+
+.headerDiv hr{
+   width: 80%;
+}
+
+.logo{
+    height: 20vh;
+}
+

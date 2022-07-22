@@ -1,0 +1,37 @@
+
+
+.interactiveArea{
+    display: flex;
+    flex-direction: column;
+}
+
+.searchField{
+    max-height: 10vh;
+    min-height: 5vh;
+    width: 35vw;
+    display: flex;
+    margin: 50px auto 50px auto;
+}
+
+.ingredientArea{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ingredientFound{
+    height: 6vh;
+}
+
+.interactiveArea h2{
+    font-size: 3vh;
+}
+
+.ingredientDiv{
+    background-color: rgba(94, 33, 33, 0.219);
+    width: 15vw;
+    margin: 10px;
+    
+}
